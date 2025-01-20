@@ -2,27 +2,15 @@
 
 This repository is a step-by-step exploration of using SHAP (SHapley Additive exPlanations) to understand the inner workings of transformer-based models for text classification. The models are sourced from [Hugging Face](https://huggingface.co/), and the primary focus is to evaluate SHAP’s effectiveness in explaining their predictions.
 
-## Objectives
-
-1. **Understand Transformer Models**: Use state-of-the-art transformer-based models from Hugging Face for text classification tasks.
-2. **Evaluate SHAP**: Investigate how well SHAP can explain the predictions of these models across different classes.
-
 ---
 
-![SHAP Logo](https://shap.readthedocs.io/en/latest/_images/logo.png)
-
----
+![SHAP Logo](https://user-images.githubusercontent.com/38404461/65588818-7734b500-df88-11e9-907c-a0bc0c0fdfc1.png)
 
 
 #### Why SHAP?
 - Provides global and local explanations.
 - Visualizes feature importance.
 - Supports interpretability even for complex transformer architectures.
-
----
-
-![SHAP Visualization](https://shap.readthedocs.io/en/latest/_images/force_plot.png)
-
 
 ## Installation and Usage
 
@@ -52,7 +40,6 @@ This repository is a step-by-step exploration of using SHAP (SHapley Additive ex
 ```
 
 ## Resources
-
 - [Hugging Face Documentation](https://huggingface.co/docs)
 - [SHAP Documentation](https://shap.readthedocs.io/)
 - [Transformers GitHub](https://github.com/huggingface/transformers)
