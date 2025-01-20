@@ -37,9 +37,8 @@ This repository is a step-by-step exploration of using SHAP (SHapley Additive ex
    ```
 4. Follow the step-by-step workflow in the notebook.
 
-```
-
 ## Resources
+
 - [Hugging Face Documentation](https://huggingface.co/docs)
 - [SHAP Documentation](https://shap.readthedocs.io/)
 - [Transformers GitHub](https://github.com/huggingface/transformers)
