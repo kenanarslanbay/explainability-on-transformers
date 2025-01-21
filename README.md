@@ -22,20 +22,7 @@ This repository is a step-by-step exploration of using SHAP (SHapley Additive ex
 
 ### Steps to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/transformer-shap-exploration.git
-   cd transformer-shap-exploration
-   ```
-2. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the Jupyter notebook:
-   ```bash
-   jupyter notebook
-   ```
-4. Follow the step-by-step workflow in the notebook.
+Follow the step-by-step workflow in the notebook.
 
 ## Resources
 
